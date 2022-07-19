@@ -9,13 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jam-Hejrati](https://github.com/Jam-Hejrati)
 
-- 📝 I regularly write articles on [not yet](not yet)
-
 - 💬 Ask me about **react and javascript**
 
 - 📫 How to reach me **jamhejratipro@gmail.com**
-
-- 📄 Know about my experiences [not yet](not yet)
 
 - ⚡ Fun fact **no one knows what am i doing exactly , even i my self !!!**
 
