@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nikorutin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nikorutin" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/hejratijam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hejratijam" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jam.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jam.dev/" height="30" width="40" /></a>
+<a href="https://twitter.com/hejratijam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hejratijam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jam.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jam.dev/" height="30" width="40" /></a>
 <a href="https://discord.gg/#7663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7663" height="30" width="40" /></a>
 </p>
 
