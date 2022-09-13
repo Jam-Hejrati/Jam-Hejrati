@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jam-hejrati" alt="jam-hejrati" /></a> </p>
 
-- 🌱 I’m currently learning **React , Redux and a little Node.js**
+- 🌱 I’m currently learning **React , Redux and a little Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jam-Hejrati](https://github.com/Jam-Hejrati)
 
