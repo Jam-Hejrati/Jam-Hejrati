@@ -5,7 +5,7 @@
 
 reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.app)
 
-- **no one knows what am i doing exactly , even i my self !!!**
+- **no one knows what am I doing exactly , even I my self !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
