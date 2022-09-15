@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jam-hejrati&show_icons=true&locale=en&layout=compact" alt="jam-hejrati" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jam-hejrati&show_icons=true&locale=en" alt="jam-hejrati" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jam-hejrati&show_icons=true&locale=en&theme=dark" alt="jam-hejrati" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jam-Hejrati&theme=black-ice)](https://git.io/streak-stats)
 
