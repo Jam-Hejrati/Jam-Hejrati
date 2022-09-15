@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jam-hejrati&label=Profile%20views&color=0e75b6&style=flat" alt="jam-hejrati" /> </p>
 
-- 🌱 I’m currently learning **React , Redux and a little Golang**
+reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jam-Hejrati](https://github.com/Jam-Hejrati)
-
-- 💬 Ask me about **react and javascript**
-
-- 📫 How to reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.app)
-
-- ⚡ **no one knows what am i doing exactly , even i my self !!!**
+- **no one knows what am i doing exactly , even i my self !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
