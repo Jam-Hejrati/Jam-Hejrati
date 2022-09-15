@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React , Redux and a little Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jam-Hejrati](https://github.com/Jam-Hejrati)
+- 👨‍💻 All of my projects are available at [https://github.com/Jam-Hejrati](https://github.com/Jam-Hejrati) and [Jam.dev](https://jam-hejrati.netlify.app)
 
 - 💬 Ask me about **react and javascript**
 
 - 📫 How to reach me **jamhejratipro@gmail.com**
 
-- ⚡ Fun fact **no one knows what am i doing exactly , even i my self !!!**
+- ⚡ **no one knows what am i doing exactly , even i my self !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
