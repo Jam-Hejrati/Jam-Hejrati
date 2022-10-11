@@ -20,3 +20,6 @@ reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.a
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jam-Hejrati&theme=github_dark" alt="jam-hejrati" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jam-hejrati&show_icons=true&locale=en" alt="jam-hejrati" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-hejrati&" alt="jam-hejrati" /></p>
