@@ -13,7 +13,7 @@ reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.a
 <a href="https://twitter.com/hejratijam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hejratijam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jam.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jam.dev/" height="30" width="40" /></a>
 <a href="https://discord.gg/#3051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3051" height="30" width="40" /></a>
-</p>
+</p></br>
 
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=css,html,js,jquery,react,redux,sass,styledcomponents,tailwind,ts,bootstrap,vscode,git,github," alt="skills logos" /> <br>
