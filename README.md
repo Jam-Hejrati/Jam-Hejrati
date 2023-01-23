@@ -1,7 +1,4 @@
 <h1 align="center">Hi , I'm Jam Hejrati</h1>
-<h3 align="center">A passionate and hard-work frontend developer from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jam-hejrati&label=Profile%20views&color=0e75b6&style=flat" alt="jam-hejrati" /> </p>
 
 reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.app)
 
