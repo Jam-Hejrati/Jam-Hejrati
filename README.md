@@ -15,7 +15,7 @@ reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.a
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=css,html,js,jquery,react,redux,sass,styledcomponents,tailwind,ts,bootstrap,materialui,vscode,git,github," alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=redux,nextjs" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=vite,webpack,jest,vue,nuxtjs,nodejs,express,mongodb,linux," alt="skills planning to learn logos">
 </div></br>
