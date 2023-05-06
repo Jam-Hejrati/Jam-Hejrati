@@ -13,11 +13,9 @@ reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.a
 </p></br>
 
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=css,html,js,jquery,react,redux,sass,styledcomponents,tailwind,ts,bootstrap,materialui,vscode,git,github," alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=css,html,js,jquery,react,redux,nextjs,sass,styledcomponents,tailwind,ts,bootstrap,materialui,postman,git,github," alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=redux,nextjs" alt="skills actively learning logos"> <br> 
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=vite,webpack,jest,vue,nuxtjs,nodejs,express,mongodb,linux," alt="skills planning to learn logos">
 </div></br>
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jam-Hejrati&theme=github_dark" alt="jam-hejrati" /></p>
