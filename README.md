@@ -13,7 +13,7 @@ reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.a
 </p></br>
 
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=css,html,js,jquery,react,redux,nextjs,sass,styledcomponents,tailwind,ts,bootstrap,materialui,postman,git,github," alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=css,html,js,jquery,react,redux,nextjs,sass,styledcomponents,tailwind,ts,bootstrap,materialui,postman,git,github,vite" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=redux,nextjs" alt="skills actively learning logos"> <br> 
 </div></br>
