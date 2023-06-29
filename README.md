@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Jam Hejrati</h1>
 
-reach me **jamhejratipro@gmail.com** and [Jam.dev](https://jam-hejrati.netlify.app)
+reach me **jamhejratipro@gmail.com**
 
 - **no one knows what am I doing exactly , even I my self !!!**
 
