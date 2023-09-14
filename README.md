@@ -4,7 +4,7 @@ reach me **jamhejratipro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jam-hejrati/" target="_blank">
+<a href="https://www.linkedin.com/in/jam-hejrati/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/hejratijam" target="_blank">
