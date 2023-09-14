@@ -2,8 +2,6 @@
 
 reach me **jamhejratipro@gmail.com**
 
-- **no one knows what am I doing exactly , even I my self !!!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nikorutin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nikorutin" height="30" width="40" /></a>
