@@ -17,9 +17,5 @@ reach me **jamhejratipro@gmail.com**
 
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,jquery,react,redux,nextjs,sass,styledcomponents,tailwind,bootstrap,materialui,figma,postman,git,github,vite" alt="skills logos" /> <br>
-  <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,docker" alt="skills actively learning logos"> <br> 
 </div></br>
-
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jam-Hejrati&theme=github_dark" alt="jam-hejrati" /></p>
 
